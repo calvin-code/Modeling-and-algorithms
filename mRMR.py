@@ -1,3 +1,4 @@
+#mRMR algorithm for feature selection.(Minimum redudancy maximum relevancy).
 import pandas as pd
 from sklearn.feature_selection import mutual_info_classif
 from sklearn.preprocessing import StandardScaler, LabelEncoder
